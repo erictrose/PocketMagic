@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=0.6, minimum-scale=0.6, user-scalable=no">
+	<title>pocket magic alpha</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.theme.min.css">
+	<link rel="stylesheet" href="css/style.css">
+    <!-- SHIV -->
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+
+<body>
+    
+    <div id='wrapper'>
+        
+        <header>
+            <div id='mobile-help-div'>
+                <img id='mobile-help-button' src='img/mobile-help-button.png' height='75' width='75' alt='help button' />
+            </div>
+            <div id='mobile-logo-div'>
+                <img id='mobile-logo' src='img/mobile-logo-bw.png' height='147' width='245' alt='pocket magic logo' />
+            </div>
+        </header>
+        
+        <main>
+            <div id='search-box-div'>
+                <img id='clear-search-button' class='x-button' src='img/x-button.png' height='64' width='64' alt='clear search' />
+                <input id='search-box' class='boxshadow'>
+                <!-- add enter instead of search button -->
+            </div>
+            <div id='results-box' class='boxshadow hidden'>
+                <ul id='results-list'></ul>
+            </div>
+        </main>
+        
+        <footer>
+            
+        </footer>
+    </div> <!-- end wrapper -->
+	
+<!-- JAVASCRIPT -->
+    <!-- START LOG -->
+    <script>console.log('#####################');
+            console.log('POCKET MAGIC');
+            console.log('A student project for Applied Design Tools and Interfaces, Full Sail University 2014.');
+            console.log('#####################');
+    </script>
+    <!-- LOAD SCRIPTS -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.ui.touch-punch.min.js"></script>
+    <script src="js/clearsearch.js"></script>
+    <script src="js/resultsgenerator.js"></script>
+    <script src="js/search.js"></script>
+<!-- /JAVASCRIPT -->
+</body>
+</html>
