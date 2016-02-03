@@ -6,10 +6,9 @@ Pocket Magic
 [Design Sketches](http://imgur.com/a/3psQ7) <br>
 [Prototype](http://imgur.com/a/wbHr6)
 
-A mobile first [Magic: The Gathering](http://magic.wizards.com/) search tool. <br>
+A mobile first [Magic: The Gathering](http://magic.wizards.com/) search tool. <br><br>
 
-usability testing <br>
-These are a few navigation tests for the mobile and desktop UI design. The tests were conducted to fine tune placement of UI elements, and done on Usability Hub. <br>
+Usability Testing <br>
 
 Mobile <br>
 [Mobile Signup](https://usabilityhub.com/tests/cf8564de8614/results) <br>
