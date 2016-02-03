@@ -6,7 +6,7 @@ Pocket Magic
 [Design Sketches](http://imgur.com/a/3psQ7) <br>
 [Prototype](http://imgur.com/a/wbHr6)
 
-A mobile first [Magic: The Gathering](http://magic.wizards.com/) search tool. <br><br>
+A mobile first [Magic: The Gathering](http://magic.wizards.com/) search tool. <br>
 
 Usability Testing <br>
 
