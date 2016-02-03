@@ -24,7 +24,6 @@ Mobile <br>
 Desktop <br>
 [Desktop Signup Search and Save](https://usabilityhub.com/tests/e734ff473f8b/results) <br>
 [Desktop Login, View Saved and Delete](https://usabilityhub.com/tests/e19e807b8bf8/results) <br>
-[Desktop Search View and Clear](https://usabilityhub.com/tests/10b7955ee36d/results) <br>
 
 Technologies: <br>
 [jQuery](https://jquery.com/) <br>
