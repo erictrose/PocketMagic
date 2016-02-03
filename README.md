@@ -1,4 +1,5 @@
 Pocket Magic
+![Image of pocket magic](http://imgur.com/yF6un01.png)
 =============
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) <br>
 [*web application*](http://pocketmagic.eric.hosting/) <br>
