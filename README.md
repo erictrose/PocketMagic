@@ -8,5 +8,24 @@ Pocket Magic
 
 A mobile first [Magic: The Gathering](http://magic.wizards.com/) search tool. <br>
 
+usability testing <br>
+These are a few navigation tests for the mobile and desktop UI design. The tests were conducted to fine tune placement of UI elements, and done on Usability Hub. <br>
+
+Mobile <br>
+[Mobile Signup](https://usabilityhub.com/tests/cf8564de8614/results) <br>
+[Mobile Login](https://usabilityhub.com/tests/5ef15cef9433/results) <br>
+[Mobile Search and Clear](https://usabilityhub.com/tests/f47756053658/results) <br>
+[Mobile Search and Select](https://usabilityhub.com/tests/b9a0576973d4/results) <br>
+[Mobile v2 Signup](https://usabilityhub.com/tests/ce640ecb0066/results) <br>
+[Mobile v2 Login](https://usabilityhub.com/tests/2a273e03946a/results) <br>
+[Mobile v2 Profile](https://usabilityhub.com/tests/495bd5492aa8/results) <br>
+[Mobile v2 Search, Select and Save](https://usabilityhub.com/tests/6e7e15d77407/results) <br>
+[Mobile v2 Delete Saved Result](https://usabilityhub.com/tests/4a9f52998d92/results) <br>
+
+Desktop <br>
+[Desktop Signup Search and Save](https://usabilityhub.com/tests/e734ff473f8b/results) <br>
+[Desktop Login, View Saved and Delete](https://usabilityhub.com/tests/e19e807b8bf8/results) <br>
+[Desktop Search View and Clear](https://usabilityhub.com/tests/10b7955ee36d/results) <br>
+
 Technologies: <br>
 [jQuery](https://jquery.com/) <br>
